@@ -5,22 +5,22 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Tic \u0026 Tac"
   },
   "text": {
     "more": "",
-    "intro": "ceci est un essai",
+    "intro": "Retour sur une semaine de polémique sur \"la petite phrase\" de Léonore Moncond\u0027huy en conseil municipal",
     "title": "Itinéraire d\u0027une polémique"
   },
   "legend": {
-    "edgeLabel": "Retweet",
+    "edgeLabel": "Retweets",
     "colorLabel": "Communautés",
-    "nodeLabel": "Users"
+    "nodeLabel": "Twittos"
   },
   "features": {
-    "search": false,
+    "search": true,
     "groupSelectorAttribute": "color",
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,

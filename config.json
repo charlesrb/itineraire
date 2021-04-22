@@ -15,12 +15,12 @@
   "legend": {
     "edgeLabel": "Retweets",
     "colorLabel": "Communautés",
-    "nodeLabel": "Twittos"
+    "nodeLabel": "Utilisateurs"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
-    "hoverBehavior": "dim"
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
